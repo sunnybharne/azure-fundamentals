@@ -12,4 +12,7 @@
 - [Explore the azure globe]https://datacenters.microsoft.com/globe/explore/)
 
 #### Azure fundamentals 
-- ![Azure fundamentals](public/azure-fundamentals.png)
+![Azure fundamentals](public/azure-fundamentals.png)
+
+#### Azure structure
+![Azure structure](public/azure-structure.png)
